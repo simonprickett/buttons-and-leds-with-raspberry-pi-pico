@@ -1,6 +1,6 @@
 # Buttons and LEDs with the Raspberry Pi Pico
 
-This is a quick demonstration of how to use [MicroPython](http://micropython.org/) to read button presses and control LEDs with the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/).  This README is a work in progress, I'll update it with a wiring diagram etc as I make progress with an article about this project on [my website](https://simonprickett.dev/).
+This is a quick demonstration of how to use [MicroPython](http://micropython.org/) to read button presses and control LEDs with the [Raspberry Pi Pico](https://www.raspberrypi.org/products/raspberry-pi-pico/).  Read more about it and see a wiring diagram [over on my website](https://simonprickett.dev/buttons-and-leds-with-micropython-for-pi-pico/).
 
 ## Hardware Used
 
