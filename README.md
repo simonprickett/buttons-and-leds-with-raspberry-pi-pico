@@ -10,6 +10,8 @@ This is a quick demonstration of how to use [MicroPython](http://micropython.org
 * 4 x Adafruit arcade button quick connect wires ([buy in UK](https://thepihut.com/products/arcade-button-quick-connect-wire-pairs-0-11-10-pack) | [buy in USA](https://www.adafruit.com/product/1152)) - optional, just means a little less soldering but you could use the wire below for all connections.  I used these for the button and LED connections on each button.
 * Hook up wires, I like using single core ones (easier to poke through holes in circuit boards) but anything will do.  I used these for the ground connections for each button. ([buy in UK](https://thepihut.com/products/hook-up-wire-spool-set-22awg-solid-core-6-x-25-ft) | [buy in USA](https://www.adafruit.com/product/1311)).
 * Soldering iron ([buy in UK](https://shop.pimoroni.com/products/antex-xs25-soldering-iron-uk-plug) | [buy in USA](https://www.adafruit.com/product/3685)).
+* * USB A to micro USB cable (for programming, then powering the finished project) ([buy in UK](https://shop.pimoroni.com/products/usb-a-to-microb-cable-black) | [buy in USA](https://www.adafruit.com/product/2185)).
+* Cardboard box (you don't need an enclosure, but it keeps everything together!  I also find plastic take out food containers work well for this stuff).
 
 ## Software Tools
 
